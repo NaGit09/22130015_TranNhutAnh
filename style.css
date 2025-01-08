@@ -22,4 +22,7 @@ margin-top: 100px;
 .card-link {
    text-decoration: none;
 }
+.dropdown:hover .dropdown-menu {
+    display: block;
+}
 /*  */
